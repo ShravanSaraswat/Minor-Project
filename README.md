@@ -3,11 +3,6 @@
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://www.youtube.com/channel/UCKvgGs-ALhvOq9u95PHXHNw)
 
-# Live Demo
-```html
-https://www.youtube.com/embed/3EBdT-0gvu8
-
-```
 
 
 # A very Simple Gui app for Face Detection 
@@ -52,7 +47,7 @@ Capture Data From the face then train the classifier<br>
 
 ### Users List<br>
 List of all the users<br>
-![page3](https://i.ibb.co/1KwfVVV/dropdown.png)<br>
+##![page3](https://i.ibb.co/1KwfVVV/dropdown.png)<br>
 
 ### Recognition <br>
 A webcam window will popup and start recognition proccess<br>
@@ -65,7 +60,7 @@ A webcam window will popup and start recognition proccess<br>
 
 <br><br>
 
-Made By ❤ : [JoeVenner](mailto:ylafrimi@gmail.com)<br>
+Made By ❤ : [Shravan Saraswat](mailto:shravansaraswat48@gmail.com)<br>
 **Free Software, Hell Yeah!**
 
 
